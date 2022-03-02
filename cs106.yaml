@@ -1,0 +1,9 @@
+
+train: ./data/cs106dataset/images/train
+val: ./data/cs106dataset/images/val
+
+# number of classes
+nc: 9
+
+# class names
+names: [ 'I', 'LOVE', 'S', 'U', 'T', 'E', 'C', 'H', 'CLEAR' ]
